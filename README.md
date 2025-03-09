@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Dart, Flutter, Firebase, SQL, Hive, PHP**
 
-- 📫 How to reach me **Bakhti.Khaled@hotmail.com**
+- 📫 How to reach me **bakhti.khaled@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
