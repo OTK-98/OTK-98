@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Programming Projects**
 
-- 💬 Ask me about **Dart, Flutter, Firebase, SQL, Hive, PHP**
+- 💬 Ask me about **Dart, Flutter, Firebase, Supabase, PostgreSQL, SQL, Hive, PHP**
 
 - 📫 How to reach me **bakhti.khaled@hotmail.com**
 
